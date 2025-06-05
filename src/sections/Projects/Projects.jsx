@@ -26,7 +26,7 @@ function Projects() {
         <ProjectCard
           src={fitLift}
           link="https://github.com/YasinduWeerakkody/Demo_AI_Detector"
-          h3="Dema Ai Detector"
+          h3="Fitness Ai Detector"
           p="Python ML JupyterNotebook"
         />
         
